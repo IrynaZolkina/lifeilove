@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lifeilove/static/css/main.d0ee6037.chunk.css",
-    "main.js": "/lifeilove/static/js/main.61530e41.chunk.js",
-    "main.js.map": "/lifeilove/static/js/main.61530e41.chunk.js.map",
+    "main.js": "/lifeilove/static/js/main.a5733da2.chunk.js",
+    "main.js.map": "/lifeilove/static/js/main.a5733da2.chunk.js.map",
     "runtime-main.js": "/lifeilove/static/js/runtime-main.3f7c5ded.js",
     "runtime-main.js.map": "/lifeilove/static/js/runtime-main.3f7c5ded.js.map",
     "static/js/2.1d6e7253.chunk.js": "/lifeilove/static/js/2.1d6e7253.chunk.js",
     "static/js/2.1d6e7253.chunk.js.map": "/lifeilove/static/js/2.1d6e7253.chunk.js.map",
     "index.html": "/lifeilove/index.html",
-    "precache-manifest.64653a6d784d2d90a27de36763e50d4b.js": "/lifeilove/precache-manifest.64653a6d784d2d90a27de36763e50d4b.js",
+    "precache-manifest.1e53b02d57c1f9b9d916ebb8cbac9bcd.js": "/lifeilove/precache-manifest.1e53b02d57c1f9b9d916ebb8cbac9bcd.js",
     "service-worker.js": "/lifeilove/service-worker.js",
     "static/css/main.d0ee6037.chunk.css.map": "/lifeilove/static/css/main.d0ee6037.chunk.css.map",
     "static/js/2.1d6e7253.chunk.js.LICENSE.txt": "/lifeilove/static/js/2.1d6e7253.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3f7c5ded.js",
     "static/js/2.1d6e7253.chunk.js",
     "static/css/main.d0ee6037.chunk.css",
-    "static/js/main.61530e41.chunk.js"
+    "static/js/main.a5733da2.chunk.js"
   ]
 }
