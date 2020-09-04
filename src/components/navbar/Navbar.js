@@ -30,17 +30,13 @@ class Navbar extends Component {
       <div>
         <nav className={this.state.show ? "active" : "hidden"}>
           <div className="navbar-container">
-            <NavLink exact to="/">
-              {" "}
-              <img src={logo1} className="App-logo1" alt="logo" />{" "}
+            <NavLink to="/">
+              <img src={logo1} className="App-logo1" alt="logo" />
             </NavLink>
 
             <ul>
               <li>
-                <NavLink exact to="/">
-                  {" "}
-                  HOME{" "}
-                </NavLink>
+                <NavLink to="/">HOME</NavLink>
               </li>
               <li>
                 <NavLink to="/contact"> PRODUCTS </NavLink>
