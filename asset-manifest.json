@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lifeilove/static/css/main.9ff15cde.chunk.css",
-    "main.js": "/lifeilove/static/js/main.63f2905d.chunk.js",
-    "main.js.map": "/lifeilove/static/js/main.63f2905d.chunk.js.map",
+    "main.css": "/lifeilove/static/css/main.d0ee6037.chunk.css",
+    "main.js": "/lifeilove/static/js/main.8bc976bf.chunk.js",
+    "main.js.map": "/lifeilove/static/js/main.8bc976bf.chunk.js.map",
     "runtime-main.js": "/lifeilove/static/js/runtime-main.3f7c5ded.js",
     "runtime-main.js.map": "/lifeilove/static/js/runtime-main.3f7c5ded.js.map",
     "static/js/2.1d6e7253.chunk.js": "/lifeilove/static/js/2.1d6e7253.chunk.js",
     "static/js/2.1d6e7253.chunk.js.map": "/lifeilove/static/js/2.1d6e7253.chunk.js.map",
     "index.html": "/lifeilove/index.html",
-    "precache-manifest.2d50b5ae9b2d2c0b342a6ee4c2c7b2c4.js": "/lifeilove/precache-manifest.2d50b5ae9b2d2c0b342a6ee4c2c7b2c4.js",
+    "precache-manifest.1c6d12d16d9c358ff17649430d09f45a.js": "/lifeilove/precache-manifest.1c6d12d16d9c358ff17649430d09f45a.js",
     "service-worker.js": "/lifeilove/service-worker.js",
-    "static/css/main.9ff15cde.chunk.css.map": "/lifeilove/static/css/main.9ff15cde.chunk.css.map",
+    "static/css/main.d0ee6037.chunk.css.map": "/lifeilove/static/css/main.d0ee6037.chunk.css.map",
     "static/js/2.1d6e7253.chunk.js.LICENSE.txt": "/lifeilove/static/js/2.1d6e7253.chunk.js.LICENSE.txt",
     "static/media/cart.png": "/lifeilove/static/media/cart.ac2107c1.png",
     "static/media/eeernbg.png": "/lifeilove/static/media/eeernbg.74379ac2.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3f7c5ded.js",
     "static/js/2.1d6e7253.chunk.js",
-    "static/css/main.9ff15cde.chunk.css",
-    "static/js/main.63f2905d.chunk.js"
+    "static/css/main.d0ee6037.chunk.css",
+    "static/js/main.8bc976bf.chunk.js"
   ]
 }

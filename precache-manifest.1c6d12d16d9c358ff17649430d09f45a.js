@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63c294a128d42903a9eeae476745858c",
+    "revision": "74e42cc9e4b84ff445df6328360137ed",
     "url": "/lifeilove/index.html"
   },
   {
-    "revision": "a5d17cb73b053757417d",
-    "url": "/lifeilove/static/css/main.9ff15cde.chunk.css"
+    "revision": "f874129b54ad35d1eb31",
+    "url": "/lifeilove/static/css/main.d0ee6037.chunk.css"
   },
   {
     "revision": "524222a44f9b9099fe40",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lifeilove/static/js/2.1d6e7253.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5d17cb73b053757417d",
-    "url": "/lifeilove/static/js/main.63f2905d.chunk.js"
+    "revision": "f874129b54ad35d1eb31",
+    "url": "/lifeilove/static/js/main.8bc976bf.chunk.js"
   },
   {
     "revision": "ea6fa968c9dced155e7b",
