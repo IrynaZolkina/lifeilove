@@ -72,7 +72,7 @@ class Navbar extends Component {
                 <NavLink to="/contact"> HOW TO USE </NavLink>
               </li>
               <li>
-                <NavLink to="/about"> ABOUT </NavLink>
+                <NavLink to="/contact"> ABOUT </NavLink>
               </li>
               <li>
                 <NavLink to="/contact"> SHIPPING </NavLink>
