@@ -5,7 +5,7 @@
 }
 nav {
   background-color: #fff;
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   width: 100%;
   text-align: center;
@@ -35,19 +35,56 @@ nav a {
 }
 .active {
   visibility: visible;
-  transition: all 0.5s;
+  /*  transition: all 0.5s; */
 }
 .hidden {
   visibility: hidden;
   transition: all 0.5s;
-  transform: translateY(-100%);
+  /*transform: translateY(-100%); */
 }
+
+.navbar-container-res {
+  height: 7vh;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+
+  background-color: #fff;
+  /* background-color: rgb(162, 187, 124);*/
+  nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgb(122, 147, 156);
+  }
+}
+
+.res-hidden {
+  display: none;
+  transition: 2s;
+}
+.res-active {
+  display: block;
+  animation: nav-load 1s;
+  position: fixed;
+}
+@keyframes nav-load {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+
 .cart-navbar {
   height: 3vh;
   margin-right: 20px;
   align-self: center; /*** on vertical ***/
   justify-self: end; /*** on gorizontal ***/
 }
+
+/***********  logo  ******************/
 .App-logo1 {
   height: 5vh;
   margin-top: 5px;
